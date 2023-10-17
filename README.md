@@ -60,15 +60,10 @@ We finally produce a final consolidated dataframe: merged_region_data.
 This dataframe has the following fields:
 
  | state | 
-| :---:   |
 | regional_division | 
-| :---:   | 
 | population | 
-:---: |
 | article_title | 
-| :---:   | 
 | revision_id | 
-| :---:   | 
 | article_quality | 
 
 
