@@ -59,13 +59,18 @@ Handled data inconsistencies and discrepancies during this merge.
 We finally produce a final consolidated dataframe: merged_region_data.
 This dataframe has the following fields:
 
-Fields
-state
-regional_division
-population
-article_title
-revision_id
-article_quality
+ | state | 
+| :---:   |
+| regional_division | 
+| :---:   | 
+| population | 
+:---: |
+| article_title | 
+| :---:   | 
+| revision_id | 
+| :---:   | 
+| article_quality | 
+
 
 # Analysis
 
