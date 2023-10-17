@@ -85,4 +85,4 @@ US Census Bureau for the population and regional division data.
 ORES for providing the article with quality predictions.
 
 # Contact Information
-For any additional questions or feedback, please contact [Harshit Rai] at [vriteshg@uw.edu]
+For any additional questions or feedback, please contact [Vritesh Gera] at [vriteshg@uw.edu]
