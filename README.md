@@ -40,13 +40,13 @@ Calculated "articles-per-population" and "high-quality-articles-per-population" 
 Displayed the top 10 and bottom 10 states according to the aforementioned metrics.
 Defined "high quality" articles as those predicted by ORES to be either "FA" or "GA".
 
-#Results Visualization
+# Results Visualization
 
 Produced tables highlighting states and census divisions based on their coverage and quality on Wikipedia.
 Top and bottom 10 US states by coverage and quality.
 Census divisions are ranked by coverage and quality.
 
-#Research Implications
+# Research Implications
 
 I tried to answer 3 questions that I found are important in this analysis.
 
@@ -68,9 +68,9 @@ Wikipedia has been criticized for gender bias in its biographical articles. Ther
 Q) Can you think of a realistic data science research situation where using these data (to train a model, perform hypothesis-driven research, or make business decisions) might still be appropriate and useful, despite its inherent limitations and bias
 
 Ans. 
-Wikipedia has a plathora of data. Generally, factual pieces on Wikipedia are something which are consistant with reality and hence I believe that we can use that data for getting an initial understanding of the problem we are working on. Wikipedia is generally up-to-date with the latest happenings around the world and hence some articles can act as a great way to train models on. 
+Wikipedia has a plethora of data. Generally, factual pieces on Wikipedia are something that are consistent with reality and hence I believe that we can use that data to get an initial understanding of the problem we are working on. Wikipedia is generally up-to-date with the latest happenings around the world and hence some articles can act as a great way to train models. 
 
-Time series models can also be trained on Wikipedia data as it generally has a well documented series of events which have happened related to a particuar event.
+Time series models can also be trained on Wikipedia data as it generally has a well-documented series of events that have happened related to a particular event.
 
 The way articles are written, the topics that are covered, and the details that are emphasized can sometimes(but not always) provide cultural or societal insights.
 
@@ -82,7 +82,7 @@ This project is licensed under the MIT License. Please see the LICENSE file for 
 
 Wikipedia for the dataset about US cities.
 US Census Bureau for the population and regional division data.
-ORES for providing the article quality predictions.
+ORES for providing the article with quality predictions.
 
 # Contact Information
 For any additional questions or feedback, please contact [Harshit Rai] at [vriteshg@uw.edu]
